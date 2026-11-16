@@ -12,7 +12,7 @@ public class doubledatatype {
         double c = a / b;
         System.out.println(c);
 
-        double d = 5 / 2;
+        double d = 5.0 / 2;
         System.out.println(d);
 
     }
